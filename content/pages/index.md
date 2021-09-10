@@ -46,7 +46,7 @@ sections:
             style: link
   - section_id: text-img
     type: section_content
-    image: images/jamstack.svg
+    image: /images/FSW.PNG
     image_position: left
     title: FSW Image
     content: >-
