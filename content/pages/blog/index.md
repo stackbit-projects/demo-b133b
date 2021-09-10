@@ -1,5 +1,5 @@
 ---
-title: Experts View
+title: Survey
 subtitle: >-
   HERE YOU CAN FIND THE OPINIONS OF OUR EXPERTS ON THE IBM FINANCIAL SERVICES
   WORKBENCH
