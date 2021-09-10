@@ -1,6 +1,5 @@
 ---
 title: Blogs
-subtitle: .
 image: images/5.jpg
 seo:
   title: Theme Style Guide
