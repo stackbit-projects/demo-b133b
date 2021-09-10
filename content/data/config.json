@@ -84,5 +84,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://demo-b133b.netlify.app"
 }
