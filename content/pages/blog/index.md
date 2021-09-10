@@ -1,6 +1,8 @@
 ---
 title: Experts View
-subtitle: This is an optional subtitle for the blog page
+subtitle: >-
+  HERE YOU CAN FIND THE OPINIONS OF OUR EXPERTS ON THE IBM FINANCIAL SERVICES
+  WORKBENCH
 image: images/5.jpg
 has_more_link: true
 more_link_text: Read more
