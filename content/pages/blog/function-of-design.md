@@ -1,5 +1,5 @@
 ---
-title: The function of design is letting design function
+title: Frank Muggendorfer
 subtitle: Vestibulum sed arcu non odio euismod lacinia at quis risus
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
