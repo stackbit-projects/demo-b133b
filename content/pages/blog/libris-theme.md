@@ -1,5 +1,5 @@
 ---
-title: Introducing The Libris Theme
+title: Christian Sternkopf
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo. Antealiquet commodo
