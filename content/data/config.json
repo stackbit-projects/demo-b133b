@@ -27,7 +27,7 @@
                 "has_subnav": false
             },
             {
-                "label": "Fourum",
+                "label": "Forum",
                 "url": "#",
                 "style": "link",
                 "has_subnav": true,
