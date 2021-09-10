@@ -1,6 +1,6 @@
 ---
 title: Blogs
-subtitle: eprint of default post and page styles.
+subtitle: .
 image: images/5.jpg
 seo:
   title: Theme Style Guide
