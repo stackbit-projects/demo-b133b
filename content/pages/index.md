@@ -5,9 +5,9 @@ sections:
     type: section_hero
     title: Financial Service Workbench
     image: images/5.jpg
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      FSW helps banks to transform digital buisness opportunities into clod
+      native solutions. 
     actions:
       - label: Get Started
         url: /docs
