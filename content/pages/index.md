@@ -14,12 +14,6 @@ sections:
         style: secondary
         icon_class: dev
         new_window: false
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        icon_class: dev
-        new_window: false
-        no_follow: false
   - section_id: features
     type: section_grid
     col_number: three
