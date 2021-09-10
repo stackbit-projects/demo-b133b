@@ -33,7 +33,7 @@
                 "has_subnav": true,
                 "subnav_links": [
                     {
-                        "label": "Overview",
+                        "label": "FSW Tutorial",
                         "url": "/overview",
                         "style": "link"
                     },
