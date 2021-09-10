@@ -11,7 +11,7 @@ sections:
     actions:
       - label: Get Started
         url: /docs
-        style: secondary
+        style: primary
         icon_class: dev
         new_window: false
   - section_id: features
