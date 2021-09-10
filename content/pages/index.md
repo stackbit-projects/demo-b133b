@@ -34,7 +34,7 @@ sections:
           - label: View Posts
             url: /blog
             style: link
-        title: 'Experts '
+        title: Experts View
       - title: Forum
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
