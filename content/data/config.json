@@ -45,7 +45,7 @@
                 ]
             },
             {
-                "label": "Blog Post",
+                "label": "Blog Posts",
                 "url": "/style-guide",
                 "style": "link",
                 "has_subnav": false
