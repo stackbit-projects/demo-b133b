@@ -23,7 +23,8 @@
             {
                 "url": "/blog",
                 "style": "link",
-                "has_subnav": false
+                "has_subnav": false,
+                "label": "Ex"
             },
             {
                 "label": "Forum",
