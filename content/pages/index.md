@@ -9,7 +9,7 @@ sections:
       FSW helps banks to transform digital buisness opportunities into clod
       native solutions. 
     actions:
-      - label: Get Started
+      - label: 'Get started '
         url: /docs
         style: primary
   - section_id: features
