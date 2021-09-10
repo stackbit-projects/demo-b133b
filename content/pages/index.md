@@ -12,7 +12,7 @@ sections:
       - label: Get Started
         url: /docs
         style: secondary
-        icon_class: linkedin
+        icon_class: dev
   - section_id: features
     type: section_grid
     col_number: three
