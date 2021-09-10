@@ -52,7 +52,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum s
 
 Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit amet rhoncus ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis.
 
-## Quoting
+## API BANKING: MORE THAN OPEN BANKING&#xA;&#xA;
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
@@ -62,7 +62,7 @@ Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar
 
 <hr />
 
-## Unordered Lists
+# DOMAIN-DRIVEN DESIGN: STRUCTURED MODELING OF COMPLEX SOFTWARE SYSTEMS IN BANKING&#xA;&#xA;
 
 *   Donec non tortor in arcu mollis feugiat
 *   Lorem ipsum dolor sit amet, consectetuer adipiscing elit
@@ -70,7 +70,7 @@ Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar
 *   Vivamus convallis urna id felis
 *   Nulla porta tempus sapien
 
-## Ordered Lists
+## OMNICHANNEL BANKING: A PREREQUISITE FOR A SEAMLESS CUSTOMER JOURNEY&#xA;&#xA;
 
 1.  Donec non tortor in arcu mollis feugiat
 2.  Lorem ipsum dolor sit amet, consectetuer adipiscing elit
