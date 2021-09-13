@@ -1,5 +1,5 @@
 ---
-title: Showcase
+title: Training
 sections:
   - section_id: hero
     type: section_hero
